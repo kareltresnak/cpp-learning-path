@@ -2,9 +2,9 @@
 
 ## 🚩 Milestones: 
 
-- [x] Basic I/O (cin, cout)
-- [x] Variables & Data Types
-- [ ] Control Flow (if, loops)
-- [ ] Functions & Scope
-- [ ] OOP Basics
-- [ ] Memory Management (The "Hard Path" begins here)
+- ✅ **Basic I/O** (cin, cout) — *Completed*
+- ✅ **Variables & Data Types** — *Completed*
+- 🏗️ **Control Flow** (if, loops) — *In Progress*
+- 🌑 **Functions & Scope** — *Not Started*
+- 🌑 **OOP Basics** — *Not Started*
+- 🌑 **Memory Management** — *Not Started*
